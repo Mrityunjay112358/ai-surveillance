@@ -1,0 +1,27 @@
+body{
+    background-size: cover;
+}
+.heading{
+    font-size: 23px;
+    margin:0;
+    width: 100%;
+}
+#start,#num_of_objects,#status{
+    font-size: 18px;
+}
+canvas{
+    border:2px solid yellow;
+    border-radius: 30px;
+    margin-top: 130px;
+    box-shadow: 0px 0px 30px red;
+}
+
+#copy_right{
+    width: 100%;
+    color:seashell;
+    background: silver;
+    position:fixed;
+    bottom:0;
+    line-height: 30px;
+    text-align: center;
+}
